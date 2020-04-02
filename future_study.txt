@@ -1,0 +1,2 @@
+# get and good book of discrete mathematics
+# Faulhaber’s formula

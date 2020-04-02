@@ -1,0 +1,19 @@
+An arithmetic progression is a sequence of numbers where the difference between any two consecutive numbers is constant.
+
+The sum of the members of a finite arithmetic progression is called an arithmetic series. For example, consider the sum
+
+derivation:
+
+S_n=a_1+(a_1+d)+(a_1+2d)+....+(a_1+(n-2)d)+(a_1+(n-1)d) ---> (1)
+S_n=(a_n-(n-1)d)+(a_n-(n-2)d)+....+(a_n-2d)+(a_n-d)+a_n ---> (2)
+
+adding both:
+
+2S_n=n(a_1 + a_n)
+S_n=n/2( a_1 + a_n)
+
+we know that a_n = a_1 + (n-1)d
+
+S_n = n/2 [ 2a_1 + (n-1) d ]
+
+mean = n_bar = (a_1 + a_n)/2
